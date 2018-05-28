@@ -1,7 +1,7 @@
 {
   "name": "vue-blog-demo",
   "version": "1.0.0",
-  "description": "A Vue.js blog demo to demonstrate proper decoupling of api data and swapping of resources/providers",
+  "description": "A blog built with Vue.js to demonstrate proper decoupling of api data and swapping of resources/providers",
   "author": "Nicolas Udy <dev@udy.io>",
   "private": true,
   "scripts": {
