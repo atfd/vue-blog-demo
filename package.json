@@ -2,7 +2,7 @@
   "name": "vue-blog-demo",
   "version": "1.0.0",
   "description": "A blog built with Vue.js to demonstrate proper decoupling of api data and swapping of resources/providers",
-  "author": "Nicolas Udy <dev@udy.io>",
+  "author": "Annie Don <hello@anniedon.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
